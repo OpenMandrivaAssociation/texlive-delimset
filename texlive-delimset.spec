@@ -1,6 +1,6 @@
 Name:		texlive-delimset
-Version:	49544
-Release:	2
+Version:	71829
+Release:	1
 Summary:	Typeset and declare sets of delimiters with convenient size control
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/delimset
